@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
+<!-- HEADER BANNER (Self-hosted SVG or Dynamic Gradient) -->
 <a href="https://github.com/PratikSolanke20">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0d1117,100:00d4ff&height=220&section=header&text=Pratik%20Solanke&fontSize=48&fontAlignY=38&desc=Full%20App%20%26%20Web%20Developer%20%E2%80%A2%20Android%20Architect%20%E2%80%A2%20AI%20Systems&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Pratik Solanke Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pratik%20Solanke&fontSize=48&fontAlignY=38&desc=Full%20App%20%26%20Web%20Developer%20%E2%80%A2%20Android%20Architect%20%E2%80%A2%20AI%20Systems&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Pratik Solanke Banner" />
 </a>
 
 <!-- TYPING SVG -->
@@ -280,6 +280,6 @@ I am always keen to collaborate on **game-changing mobile applications, full-sta
 <div align="center">
   <sub>Designed & Crafted with passion by <b>Pratik Solanke</b>. © 2026 All Rights Reserved.</sub>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0d1117,100:00d4ff&height=90&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
 
