@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- HEADER BANNER (Self-hosted SVG or Dynamic Gradient) -->
+<!-- HEADER BANNER -->
 <a href="https://github.com/PratikSolanke20">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pratik%20Solanke&fontSize=48&fontAlignY=38&desc=Full%20App%20%26%20Web%20Developer%20%E2%80%A2%20Android%20Architect%20%E2%80%A2%20AI%20Systems&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Pratik Solanke Banner" />
+  <img src="https://raw.githubusercontent.com/PratikSolanke20/PratikSolanke20/main/header.svg" width="100%" alt="Pratik Solanke Banner" />
 </a>
 
 <!-- TYPING SVG -->
@@ -211,19 +211,19 @@ Whether implementing zero-data-loss synchronization engines for healthcare platf
   <tr>
     <td>
       <a href="https://github.com/PratikSolanke20">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikSolanke20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=9ece6a&icon_color=ff007f&bg_color=0d1117" alt="Pratik's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=PratikSolanke20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=9ece6a&icon_color=ff007f&bg_color=0d1117" alt="Pratik's GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/PratikSolanke20">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSolanke20&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=c0caf5&bg_color=0d1117" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PratikSolanke20&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=c0caf5&bg_color=0d1117" alt="Top Languages" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/PratikSolanke20">
-        <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikSolanke20&theme=tokyonight&hide_border=true&stroke=00e5ff&background=0d1117&ring=00e5ff&fire=ff007f&currStreakLabel=00e5ff" alt="GitHub Streak" />
+        <img width="95%" src="https://streak-stats.demolab.com/?user=PratikSolanke20&theme=tokyonight&hide_border=true&stroke=00e5ff&background=0d1117&ring=00e5ff&fire=ff007f&currStreakLabel=00e5ff" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -279,7 +279,4 @@ I am always keen to collaborate on **game-changing mobile applications, full-sta
 
 <div align="center">
   <sub>Designed & Crafted with passion by <b>Pratik Solanke</b>. © 2026 All Rights Reserved.</sub>
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
-
